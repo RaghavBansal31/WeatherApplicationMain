@@ -25,10 +25,10 @@
         For me the project is showing Sanfransico as If you're running your app in the iOS Simulator, it defaults to a location in San Francisco.
 
         
-        ![Simulator Screenshot - iPhone 15 Pro - 2025-03-21 at 15 55 41](https://github.com/user-attachments/assets/27fccd8a-ad95-4288-b0bf-c0ac413c2bb4)
-        ![Simulator Screenshot - iPhone 15 Pro - 2025-03-21 at 15 55 44](https://github.com/user-attachments/assets/d91f711f-ef83-43f0-9223-0245b21c413c)
-        ![Simulator Screenshot - iPhone 15 Pro - 2025-03-21 at 15 56 00](https://github.com/user-attachments/assets/8307a4b3-5439-4181-9d94-058535eea694)
-        ![Simulator Screenshot - iPhone 15 Pro - 2025-03-21 at 15 56 04](https://github.com/user-attachments/assets/3fa9c86d-1b41-4394-ac9e-934943612fd2)
+<img src="https://github.com/user-attachments/assets/27fccd8a-ad95-4288-b0bf-c0ac413c2bb4" width="300" />
+<img src="https://github.com/user-attachments/assets/d91f711f-ef83-43f0-9223-0245b21c413c" width="300" />
+<img src="https://github.com/user-attachments/assets/8307a4b3-5439-4181-9d94-058535eea694" width="300" />
+<img src="https://github.com/user-attachments/assets/3fa9c86d-1b41-4394-ac9e-934943612fd2" width="300" />
 
 
 
